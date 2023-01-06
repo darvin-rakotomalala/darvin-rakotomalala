@@ -14,7 +14,7 @@
 
 - 📫 Me joindre **darvintojo@gmail.com**
 
-- 📄 Connaître mes expériences [https://github.com/darvin-rakotomalala](https://darvin-rakotomalala.github.io/dev-poc/index.html)
+- 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
 
 - ⚡ Fait amusant **Je suis drôle 😅**
 
