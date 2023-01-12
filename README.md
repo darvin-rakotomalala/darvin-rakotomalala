@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darvin-rakotomalala&label=Profile%20views&color=0e75b6&style=flat" alt="darvin-rakotomalala" /> </p>
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/darvin-rakotomalala](https://github.com/darvin-rakotomalala)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/darvin-rakotomalala?tab=repositories](https://github.com/darvin-rakotomalala?tab=repositories)
 
 - 📝 J'écris régulièrement des PoC sur [https://github.com/darvin-rakotomalala](https://darvin-rakotomalala.github.io/dev-poc/index.html)
 
