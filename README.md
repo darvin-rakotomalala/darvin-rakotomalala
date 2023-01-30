@@ -1,6 +1,6 @@
 <img alt="JAVA & Spring Boot" height=250 width=100% src="https://github.com/darvin-rakotomalala/darvin-rakotomalala/blob/main/github%20banner.jpg" />
 <h1 align="center">Salut 👋, Je m'appelle Darvin</h1>
-<h3 align="center">Analyste programmeur Java/JEE Spring Boot passionné de Madagascar</h3>
+<h3 align="center">Analyste programmeur Java Spring Boot passionné de Madagascar</h3>
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
