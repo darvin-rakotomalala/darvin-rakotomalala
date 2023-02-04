@@ -16,7 +16,7 @@
 
 - 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
 
-- ⚡ Fait amusant **J'ai passé presque mon temps à chercher de nouvelles technologies et développer des projets perso**
+- ⚡ Fait amusant **j'ai passé presque mon temps à chercher de nouvelles technologies et développer des projets perso**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
