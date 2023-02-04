@@ -10,13 +10,13 @@
 
 - 📝 J'écris régulièrement des PoC sur [https://github.com/darvin-rakotomalala](https://darvin-rakotomalala.github.io/dev-poc/index.html)
 
-- 💬 Demande moi à propos de **développement back-end avec Java 8+ / Spring Boot**
+- 💬 Demande moi à propos de **Java 8+ | Spring Boot**
 
 - 📫 Me joindre **darvintojo@gmail.com**
 
 - 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
 
-- ⚡ Fait amusant **Je suis drôle 😅**
+- ⚡ Fait amusant **J'ai passé presque mon temps à chercher de nouvelles technologies et développer des projets perso**
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
