@@ -12,8 +12,6 @@
 
 - 💬 Demande moi à propos de **Java 8+ | Spring Boot**
 
-- 📫 Me joindre **darvintojo@gmail.com**
-
 - 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
 
 - ⚡ Fait amusant **j'ai passé presque mon temps à chercher de nouvelles technologies et développer des projets perso**
