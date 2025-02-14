@@ -10,7 +10,7 @@
 
 - 📝 Vous trouvez dans ce lien mon portfolio - 
 
-- 💬 Demande moi à propos de **Java 8+/Spring Boot & Scala**
+- 💬 Demande moi à propos de **Java 8+ & Scala**
 
 - 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
 
