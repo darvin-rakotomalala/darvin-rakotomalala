@@ -1,6 +1,6 @@
 <img alt="JAVA & Spring Boot" height=250 width=100% src="https://github.com/darvin-rakotomalala/darvin-rakotomalala/blob/main/github%20banner.jpg" />
 <h1 align="center">Salut 👋, Je suis Darvin</h1>
-<h3 align="center">Développeur backend Java/Spring Boot & Scala/Apache Spark passionné de la Capitale-Nationale Québec, Canada</h3>
+<h3 align="center">Développeur backend Java & Scala passionné de la Capitale-Nationale Québec, Canada</h3>
 
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
@@ -10,7 +10,7 @@
 
 - 📝 J'écris régulièrement des PoC sur [https://github.com/darvin-rakotomalala](https://darvin-rakotomalala.github.io/dev-poc/index.html)
 
-- 💬 Demande moi à propos de **Java 8+/Spring Boot & Scala/Apache Spark**
+- 💬 Demande moi à propos de **Java 8+/Spring Boot & Scala**
 
 - 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
 
