@@ -8,7 +8,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/darvin-rakotomalala?tab=repositories](https://github.com/darvin-rakotomalala?tab=repositories)
 
-- 📝 J'écris régulièrement des PoC sur [https://github.com/darvin-rakotomalala](https://darvin-rakotomalala.github.io/dev-poc/index.html)
+- 📝 Vous trouvez dans ce lien mon portfolio - 
 
 - 💬 Demande moi à propos de **Java 8+/Spring Boot & Scala**
 
