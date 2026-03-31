@@ -13,7 +13,3 @@
 - 💬 Demande moi à propos de **Java Spring Boot**
 
 - 📄 Connaître mes expériences [https://www.linkedin.com/in/darvin-rakotomalala](https://www.linkedin.com/in/darvin-rakotomalala)
-
-- ⚡ Fait amusant **j'ai passé presque mon temps libre à veiller les nouvelles technologies et à développer des projets persos**
-
-
