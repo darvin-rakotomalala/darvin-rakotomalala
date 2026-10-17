@@ -12,10 +12,6 @@
   <a href="https://substack.com/@cloudwithdarvin"><img src="https://img.shields.io/badge/Substack-@cloudwithdarvin-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darvin-rakotomalala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
