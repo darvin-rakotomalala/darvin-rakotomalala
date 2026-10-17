@@ -1,4 +1,4 @@
-<img alt="JAVA & Spring Boot" height=250 width=100% src="https://github.com/darvin-rakotomalala/darvin-rakotomalala/blob/main/github%20banner.jpg" />
+<img alt="JAVA & AWS height=250 width=100% src="https://github.com/darvin-rakotomalala/darvin-rakotomalala/blob/main/github%20banner.png" />
 
 <h1 align="center">Hi there 👋, I'm Darvin</h1>
 
