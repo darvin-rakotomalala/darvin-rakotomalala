@@ -34,7 +34,7 @@ operationally resilient, and built to scale**.
 
 ## 🛠️ Tech Stack & Skills
 
-- **Programming languages:** Java 17+, Python
+- **Programming languages:** Java 21+, Python
 - **Frameworks:** Spring Boot 3+ / _Persistence_ — Hibernate, Spring Data (JPA, MongoDB, DynamoDB) / _Security_ — Spring
   Security, OAuth2, JWT / _API Development_ — REST, Swagger, OpenAPI, OpenFeign / _Reactive Programming_ — Spring
   WebFlux, Reactor Distributed / _Caching_ — Redis, Amazon ElastiCache / _Testing_ — TDD, Mockito, JUnit / _Code
