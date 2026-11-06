@@ -44,7 +44,7 @@ operationally resilient, and built to scale**.
 - **Build Tools:** Maven, Gradle, CI/CD, Scripting & Automation
 - **Cloud Platforms:** Core AWS services, GCP
 - **Infrastructure as Code**: Terraform
-- **Messaging:** Apache Kafka, SNS, SQS, EventBridge, Pub/Sub
+- **Messaging:** SNS, SQS, EventBridge, Pub/Sub
 - **Architecture:** Microservices, Containerization, Serverless, Distributed Systems
 
 ### 🧱 Projects highlights
