@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Darvin</h1>
 
 <p align="center">
-  <i>Senior Java Backend Developer · Cloud-Native Developer · AWS Cloud Engineer · Terraform · CI/CD · Bilingual FR/EN</i>
+  <i>Senior Java Backend Developer · Cloud-Native Developer · AWS Cloud Engineer · Terraform · CI/CD · AI on AWS</i>
 </p>
 
 <p align="center">
