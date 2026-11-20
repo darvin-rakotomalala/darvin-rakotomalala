@@ -24,8 +24,8 @@ operationally resilient, and built to scale**.
   available production systems, specializing in cloud-native development with Java and Spring Boot.
 - ☁️ **AWS Cloud Engineer** designing and deploying scalable, highly available, and secure cloud infrastructure using
   **Terraform** and **GitHub Actions** CI/CD.
-- 🧱 Hands-on projects cover **Multi-AZ architectures, Auto Scaling, Microservices, and Serverless/Event-Driven solutions
-  with Lambda**, backed by IAM security best practices, monitoring, and Python/Linux automation.
+- 🧱 Hands-on projects cover **Multi-AZ architectures, Auto Scaling, Microservices, Serverless/Event-Driven solutions
+  with Lambda and AI on AWS**, backed by IAM security best practices, monitoring, and Python/Linux automation.
 - 🌱 My path into cloud engineering started in backend development: that experience shapes how I design cloud
   infrastructure, **reliable under pressure, observable by design, and maintainable at scale**.
 - 📍 Based in Québec City, Canada · 🗣️ Bilingual French/English
@@ -36,14 +36,14 @@ operationally resilient, and built to scale**.
 
 - **Programming languages:** Java 21+, Python
 - **Frameworks:** Spring Boot 3+ / _Persistence_ — Hibernate, Spring Data (JPA, MongoDB, DynamoDB) / _Security_ — Spring
-  Security, OAuth2, JWT / _API Development_ — REST, Swagger, OpenAPI, OpenFeign / _Reactive Programming_ — Spring
+  Security, OAuth2, JWT / _Java AI Backend_ — LangChain4j & Spring Boot AI / _API Development_ — REST, Swagger, OpenAPI, OpenFeign / _Reactive Programming_ — Spring
   WebFlux, Reactor Distributed / _Caching_ — Redis, Amazon ElastiCache / _Testing_ — TDD, Mockito, JUnit / _Code
   Quality_ — SonarQube / _Multithreading and Concurrency_ — Executors, CompletableFuture / _Monitoring and
   Observability_ — AWS CloudWatch Observability / _Design Principles_ — SOLID, Clean Architecture
 - **Data Management:** SQL/NoSQL, RDBMS, MongoDB, Amazon DynamoDB
 - **Build Tools:** Maven, Gradle, CI/CD, Scripting & Automation
 - **Cloud Platforms:** Core AWS services, GCP
-- **Infrastructure as Code**: Terraform
+- **Infrastructure as Code**: Terraform, Checkov, Policy as Code (PaC), Service control policies (SCPs)
 - **Messaging:** SNS, SQS, EventBridge, Pub/Sub
 - **Architecture:** Microservices, Containerization, Serverless, Distributed Systems
 
@@ -65,11 +65,12 @@ operationally resilient, and built to scale**.
 - **Production-grade Highly Available and Scalable Microservices Application :** Containerized microservices with
   Docker, stored images in ECR and deployed them on ECS Fargate behind an Application Load Balancer, with service
   discovery, path-based routing and auto scaling | [GitHub]().
+- **Java & AWS Development:** Java & Amazon Database, Java & Amazon Serverless & Event-Driven, Java & Amazon
+  Containerization | [GitHub]().
+- **Java AI Agent Integration:** Java AI Backend — LangChain4j & Spring Boot AI, AI on AWS — Amazon Bedrock | [GitHub]().
 - **Production-grade Disaster Recovery Setups:** Designed and tested a multi-Region disaster recovery solution using AWS
   Backup, cross-Region S3 and RDS replication, Route 53 health checks and automated failover, meeting defined RTO and
   RPO targets for a critical application | [GitHub]().
-- **Java & AWS Development:** Java & Amazon Database, Java & Amazon Serverless & Event-Driven, Java & Amazon
-  Containerization | [GitHub]().
 
 ---
 
