@@ -46,6 +46,7 @@ operationally resilient, and built to scale**.
 - **Infrastructure as Code**: Terraform, Checkov, Policy as Code (PaC), Service control policies (SCPs)
 - **Messaging:** SNS, SQS, EventBridge, Pub/Sub
 - **Architecture:** Microservices, Containerization, Serverless, Distributed Systems
+- **Java AI Backend** — LangChain4j, Spring Boot AI and Amazon Bedrock
 
 ### 🧱 Projects highlights
 
