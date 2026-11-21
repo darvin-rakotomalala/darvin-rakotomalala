@@ -82,7 +82,7 @@ can help.
 
 - 🌐 [cloudwithdarvin.com](https://cloudwithdarvin.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/darvin-rakotomalala)
-- ✍️ [Substack](https://substack.com/@cloudwithdarvin)
+- ✍️ [Substack](https://cloudwithdarvin.substack.com/)
 
 💬 Ask me about **AWS Cloud Engineer and/or Java Spring Boot & Cloud-Native Developer**.
 
