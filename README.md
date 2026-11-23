@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://cloudwithdarvin.com"><img src="https://img.shields.io/badge/Website-cloudwithdarvin.com-0563BB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/darvin-rakotomalala"><img src="https://img.shields.io/badge/LinkedIn-darvin--rakotomalala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://substack.com/@cloudwithdarvin"><img src="https://img.shields.io/badge/Substack-@cloudwithdarvin-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://cloudwithdarvin.substack.com"><img src="https://img.shields.io/badge/Substack-@cloudwithdarvin-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
 </p>
 
 ---
