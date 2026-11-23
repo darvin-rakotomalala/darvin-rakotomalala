@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Darvin</h1>
 
 <p align="center">
-  <i>Senior Java Backend Developer · Cloud-Native Developer · AWS Cloud Engineer · Java AI Agent Integration</i>
+  <i>Senior Java Backend Developer · AWS Cloud Engineer · AI integration and Cloud-Native Security</i>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ operationally resilient, and built to scale**.
   discovery, path-based routing and auto scaling | [GitHub]().
 - **Java & AWS Development:** Java & Amazon Database, Java & Amazon Serverless & Event-Driven, Java & Amazon
   Containerization | [GitHub]().
-- **Java AI Agent Integration:** Java AI Backend — LangChain4j & Spring Boot AI, AI on AWS — Amazon Bedrock | [GitHub]().
+- **AI integration and Cloud-Native Security:** Java AI Backend — LangChain4j & Spring Boot AI, AI on AWS — Amazon Bedrock | [GitHub]().
 - **Production-grade Disaster Recovery Setups:** Designed and tested a multi-Region disaster recovery solution using AWS
   Backup, cross-Region S3 and RDS replication, Route 53 health checks and automated failover, meeting defined RTO and
   RPO targets for a critical application | [GitHub]().
@@ -82,7 +82,7 @@ can help.
 
 - 🌐 [cloudwithdarvin.com](https://cloudwithdarvin.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/darvin-rakotomalala)
-- ✍️ [Substack](https://cloudwithdarvin.substack.com/)
+- ✍️ [Substack](https://cloudwithdarvin.substack.com)
 
 💬 Ask me about **AWS Cloud Engineer and/or Java Spring Boot & Cloud-Native Developer**.
 
