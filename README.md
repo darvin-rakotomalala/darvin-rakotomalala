@@ -34,15 +34,16 @@ Welcome to my GitHub! I'm passionate about building scalable cloud infrastructur
 - **Frameworks:** Spring Boot 3+
 - **Java AI Backend:** LangChain4j, Spring Boot AI and Amazon Bedrock
 - **Data Management:** SQL/NoSQL, RDBMS, MongoDB, Amazon DynamoDB
-- **Build Tools:** Maven, Gradle, CI/CD, Scripting & Automation
-- **Cloud Platforms:** Core AWS services and AI & Cloud-Native Security
-- **Infrastructure as Code**: Terraform, Checkov, Policy as Code (PaC)
+- **Build Tools:** Maven, Gradle, CI/CD, Bash/Shell Scripting & Automation
+- **Cloud Platforms:** Core AWS services, AI & Cloud-Native Security, Security compliance and encryption enforcement
+- **Infrastructure as Code**: Terraform, Policy as Code (Checkov), Implementing Service Control Policies, Stack drift detection and automated remediation, Infrastructure monitoring and alerting
 - **Messaging:** SNS, SQS, EventBridge
-- **Architecture:** Microservices, Containerization, Serverless, Distributed Systems
+- **Observability & Monitoring**: CloudWatch, X-Ray, Application Signals, and distributed tracing
+- **Architecture:** Microservices, Containerization, Serverless, Distributed Systems (Event-Driven)
 
-### 🧱 Projects highlights
+---
 
-***
+## 🧱 Projects highlights
 
 - **Production-grade Static Website Hosting:** Designed and deployed a secure, globally distributed static website using
   S3, CloudFront, Route 53, ACM and WAF, with HTTPS, a custom domain and Origin Access Control to block direct bucket
@@ -76,7 +77,7 @@ can help.
 - 💼 [LinkedIn](https://www.linkedin.com/in/darvin-rakotomalala)
 - ✍️ [Substack](https://cloudwithdarvin.substack.com)
 
-💬 Ask me about **AWS Cloud Engineer and/or Java Spring Boot & Cloud-Native Developer**.
+**📈 Always Learning**: Ask me about **AWS Cloud Engineer and/or Java Cloud-Native Developer**.
 
 ---
 
