@@ -24,8 +24,6 @@ Welcome to my GitHub! I'm passionate about building scalable cloud infrastructur
   **Terraform** and **GitHub Actions** CI/CD.
 - 🧱 Hands-on projects cover **Multi-AZ architectures, Auto Scaling, Microservices, Serverless/Event-Driven solutions
   with Lambda and AI on AWS**.
-- 🌱 My path into cloud engineering started in backend development: that experience shapes how I design cloud
-  infrastructure, **reliable under pressure, observable by design, and maintainable at scale**.
 - 📍 Based in Québec City, Canada · 🗣️ Bilingual French/English
 
 ---
