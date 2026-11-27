@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub! I'm passionate about building scalable cloud infrastructure, implementing robust monitoring solutions, and designing enterprise-grade AWS architectures. My senior Java backend background gives me a developer-first approach to infrastructure, and I deliver systems that are **production-ready, operationally resilient, and built to scale**.
+Welcome to my GitHub! I'm passionate about Building scalable and secure cloud infrastructure, implementing robust monitoring solutions, designing enterprise-grade architectures and AI set up on AWS.
 
 - 🧑‍💻 **Senior Java Backend Developer** with **8+ years** of experience building and supporting high-load, highly
   available production systems, specializing in cloud-native development with Java and Spring Boot.
